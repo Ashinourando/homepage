@@ -7,7 +7,7 @@ body{
     height: 70px;
     text-align: center;
     background-color: #f50;
-    color: #fff;
+    color: #f00;
 }
 .content{
     flex: 1;
