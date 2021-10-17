@@ -6,12 +6,12 @@ body{
 .topNavigation{
     height: 70px;
     text-align: center;
-    background-color: #888;
-    color: #fdd059;
+    background-color: #f50;
+    color: #fff;
 }
 .content{
     flex: 1;
-    background-color: #eee;
+    background-color: #ffe;
     text-align: center;
     margin-top: 10px;
 }
